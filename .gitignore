@@ -1,0 +1,12 @@
+app/
+_downloads/
+extracted/
+agent/build/
+agent/classes/
+agent/lib/
+agent/.cache/
+agent/dawn-unix-agent.jar
+payload/*.jar
+__pycache__/
+*.pyc
+.DS_Store
